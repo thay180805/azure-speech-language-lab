@@ -1,0 +1,9 @@
+{
+  "texto": "Gostei muito do serviço, recomendo!",
+  "sentimento": "Positivo",
+  "confiança": {
+    "positivo": 0.97,
+    "neutro": 0.02,
+    "negativo": 0.01
+  }
+}
