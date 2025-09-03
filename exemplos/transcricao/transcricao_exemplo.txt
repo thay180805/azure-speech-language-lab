@@ -1,0 +1,1 @@
+"Bom dia, este é um teste de transcrição usando o Azure Speech Studio."
